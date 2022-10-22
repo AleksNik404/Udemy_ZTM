@@ -1,0 +1,12 @@
+{
+    "name": "01-quote-generator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "script.js",
+    "scripts": {
+        "start": "node-sass main.scss style.css -w"
+    },
+    "author": "ZTM",
+    "license": "ISC",
+    "dependencies": {}
+}
